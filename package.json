@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "hexo-bilibili@github:imzlp/hexo-bilibili",
+      "C:\\Users\\visionsmile\\Desktop\\ue5wiki_source"
+    ]
+  ],
+  "_from": "hexo-bilibili@github:imzlp/hexo-bilibili",
+  "_id": "hexo-bilibili@git+ssh://git@github.com/imzlp/hexo-bilibili.git#bb774b5c438ac4fd65767d709382218f453298a6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/hexo-bilibili",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "hexo-bilibili@github:imzlp/hexo-bilibili",
+    "name": "hexo-bilibili",
+    "escapedName": "hexo-bilibili",
+    "rawSpec": "github:imzlp/hexo-bilibili",
+    "saveSpec": "github:imzlp/hexo-bilibili",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/imzlp/hexo-bilibili.git#bb774b5c438ac4fd65767d709382218f453298a6",
+  "_spec": "github:imzlp/hexo-bilibili",
+  "_where": "C:\\Users\\visionsmile\\Desktop\\ue5wiki_source",
+  "author": {
+    "name": "imzlp"
+  },
+  "bugs": {
+    "url": "https://github.com/imzlp/hexo-bilibili/issues"
+  },
+  "description": "Embed steam game in Hexo posts/pages.",
+  "homepage": "https://github.com/imzlp/hexo-bilibili#readme",
+  "keywords": [
+    "Hexo",
+    "steam",
+    "embed",
+    "tag",
+    "hexo-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hexo-bilibili",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imzlp/hexo-bilibili.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
