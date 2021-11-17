@@ -12,7 +12,7 @@ hexo.extend.tag.register('bilibili', function (args, content) {
     let iframes=``;
     var video_vid = args[0]
     iframes += `<div class="bilibili-video" style="position: relative;width: 100%;height: 0;padding-bottom: 75%;">`
-    iframes += `<iframe frameborder="0" src="https://player.bilibili.com/player.html?bvid=${video_vid}" style="position: absolute;width: 100%;height: 100%;left: 0;top: 0;"></iframe>`
+    iframes += `<iframe frameborder="0" src="https://player.bilibili.com/player.html?bvid=${video_vid}&high_quality=1&danmaku=1" style="position: absolute;width: 100%;height: 100%;left: 0;top: 0;"></iframe>`
     iframes += `</div>`
     return iframes;
 }, { ends: false });
